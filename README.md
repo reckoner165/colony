@@ -1,2 +1,2 @@
 # colony
-Web based immersive audio portrait on urban noise pollution
+Immersive audio portrait on urban noise pollution
